@@ -1,6 +1,7 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(248, 239, 227);
+    line-height: 1.5;
 }
 
 #title {
@@ -9,7 +10,14 @@
 }
 
 #recipes-list {
-    list-style: none;
-    line-height: 1.5;
     font-size: large;
+}
+
+.section {
+    color: brown;
+}
+
+ul.ingredients,
+#recipes-list {
+    list-style: none;
 }
