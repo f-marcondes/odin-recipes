@@ -13,6 +13,13 @@
     font-size: large;
 }
 
+.food-sample {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .section {
     color: brown;
 }
